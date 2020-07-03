@@ -1,0 +1,9 @@
+GP=0 MS=1
+F=0 M=1
+urban=0 rural=1
+less or equal to 3=0 greater than 3=1
+living together=0 apart=1
+'teacher'=0 'health' care related=1 civil 'services' (e.g. administrative or police)=2 'at_home'=3 or 'other'=4
+close to 'home'=0, school 'reputation'=1, 'course' preference=2 or 'other'=3
+'mother'=0, 'father'=1 or 'other'=2
+no=0 yes=1
