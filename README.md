@@ -40,7 +40,3 @@ Environment:
   
 
 translation.txt: how categorical value changed into numerical
-
-
-
-**Run inside the ML folder directly!**
